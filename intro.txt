@@ -1,0 +1,45 @@
+What is C?
+->
+C is a general-purpose programming language created by Dennis Ritchie at the Bell Laboratories in 1972
+
+It is a very popular language, despite being old. The main reason for its popularity is because it is a fundamental language in the field of computer science.
+C is strongly associated with UNIX, as it was developed to write the UNIX operating system.
+
+Why Learn C?
+->
+It is one of the most popular programming languages in the world
+If you know C, you will have no problem learning other popular programming languages such as Java, Python, C++, C#, etc, as the syntax is similar
+C is very fast, compared to other programming languages, like Java and Python
+C is very versatile; it can be used in both applications and technologies
+-> 
+Applications: This refers to software programs, like games or apps that you use on your computer or phone. 
+C can be used to create these kinds of applications.
+-> 
+Technologies: This includes things like operating systems, hardware drivers, and embedded systems (like those in cars or appliances). 
+C is often used to develop the software that runs these technologies.
+
+Applications of C?
+->
+Operating Systems:
+Unix: The original Unix operating system was written in C.
+Linux: Most of the Linux operating system is written in C, making it highly efficient.
+
+Text Editors:
+Vim: A powerful text editor used for coding and general text manipulation.
+Emacs: Another popular text editor known for its extensibility.
+
+Web Browsers:
+Chrome: Parts of the Chrome browser, especially the rendering engine, are written in C/C++.
+Firefox: The Gecko engine that powers Firefox has a significant amount of C/C++ code.
+
+Database Systems:
+MySQL: One of the most popular open-source database systems is built using C.
+PostgreSQL: Another widely used open-source relational database.
+
+Games:
+Doom: A classic video game that was originally programmed in C.
+Quake: The Quake engine, which influenced many other games, is also written in C.
+
+Embedded Systems: 
+Many applications in automotive, medical devices, and consumer electronics are built using C due to its efficiency and control over hardware.
+
