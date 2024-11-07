@@ -44,13 +44,26 @@ int main(){
     printf("unary +=%d\n",+a);
     printf("unary -=%d\n",-a);
     
-    //binary 
+    //binary
+    //Arithmetic
     a=10;
     int b=20;
-    printf("binary\n");
+    printf("Arithmetic\n");
     printf("+=%d\n",a+b);
     printf("-=%d\n",a-b);
     printf("*=%d\n",a*b);
     printf("/=%d\n",a/b);
+    printf("%=%d\n",a%b);
+    
+    //Relational
+    a=10;
+    b=20;
+    printf("Relational\n");
+    printf("==%d\n",a==b);
+    printf("!=%d\n",a!=b);
+    printf("<%d\n",a<b);
+    printf(">%d\n",a>b);
+    printf("<=%d\n",a<=b);
+    printf(">=%d\n",a>=b);
     return 0;
 }
